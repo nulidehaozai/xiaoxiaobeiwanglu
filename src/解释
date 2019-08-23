@@ -1,0 +1,2 @@
+在.vue里，template放置html。script放置js。style放置css。
+webpack用来打包前端资源
